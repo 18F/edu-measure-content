@@ -1,5 +1,5 @@
 ---
-permalink: /introduction/
+permalink: /
 title: Introduction
 ---
 How does one identify great content? While it might be easy to lean on Justice Potter Stewart’s famous mantra, “I know it when I see it,” a number of tools exist to help us determine if our content is performing the way we hope. 
