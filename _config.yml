@@ -29,7 +29,7 @@ logoalt: 18F logo
 # List links that should appear in the site sidebar here
 navigation:
 - text: Introduction
-  url: index.html
+  url: introduction/
   internal: true
 - text: Reading ease scores
   url: reading-ease-scores/

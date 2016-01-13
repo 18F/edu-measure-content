@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /reading-ease-scores/
 title: Reading ease scores
 ---
-
-## Reading ease scores
-
 The first step in producing readable content is cultivating audience awareness. Who are you writing for? Remember, readers will come to your content with varying educational backgrounds. If your content is unnecessarily lengthy or technical, you’ll frustrate and possibly lose your audience.
 
 Here’s a good rule of thumb: If you’d like to reach a broad range of users, you should strive to write at a middle-school level. A 2003 Department of Education assessment showed “average” Americans read at a [seventh–eighth grade level](https://nces.ed.gov/pubs93/93275.pdf). 

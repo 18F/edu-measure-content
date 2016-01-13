@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /cloze-test/
 title: Cloze test
 ---
-
-## Cloze test
-
 The Cloze test can help you measure readers’ comprehension. In the Cloze test, you'll give participants a selection of text with certain words removed. Then you'll direct them to fill in the blanks. 
 
 When creating a Cloze test, you can delete words using a formula (for example, every fifth word), or you can delete selectively (just key words). You can accept only exact answers, or you can accept synonyms. If you want statistically sound data, we recommend that — however you enact the Cloze test — you’re consistent. And sample as many readers as possible. 

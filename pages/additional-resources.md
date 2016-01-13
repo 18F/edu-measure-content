@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /additional-resources/
 title: Additional resources
 ---
-
-## Additional resources
-
 We hope this tutorial helped you identify some possible avenues for measuring the effectiveness of your content. If you’d like to read more about content measurement, here’s a list of items we’ve found helpful on our own content endeavors:
 
 - [Neilson Norman Group’s](http://www.nngroup.com/articles/cloze-test-reading-comprehension/) article on the Cloze test

@@ -2,9 +2,6 @@
 permalink: /test-your-knowledge/
 title: Test your knowledge! 
 ---
-
-## Test your knowledge! 
-
 It’s not possible to undertake usability testing in the hypothetical— the unpredictability of human response is what makes it so valuable. That said, a good first step toward improving content is increasing its indexed “readability.” Take a look at the paragraph below:
 
 *NOAA enriches life through science. People rely on NOAA for weather forecasts and warnings, healthy coastal waters, a long-lasting supply of seafood, safe movement of ships, oil spill recovery and more. Our scientists look at the world up close and from far away, study plankton with microscopes and look at the whole Earth using satellites. NOAA's national marine sanctuaries and national estuarine research reserves provide great opportunities for recreation and protect our nation's underwater and coastal treasures. So check the weather, use your nautical chart, learn about your ocean and coasts and be a good steward of your planet on an adventure with NOAA.*
