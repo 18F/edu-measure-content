@@ -1,4 +1,4 @@
-This is a repository of documents for 18F Edu's "How to test and measure content" course.
+This is a repository of documents for 18F Edu's "How to test and measure content" course (https://pages.18f.gov/edu-measure-content/). 
 
 How does one identify great content? While it might be easy to lean on Justice Potter Stewart’s famous mantra, “I know it when I see it,” a number of tools exist to help us determine if our content is performing the way we hope.
 
