@@ -1,5 +1,4 @@
 ---
-permalink: /test-your-knowledge/
 title: Test your knowledge! 
 ---
 It’s not possible to undertake usability testing in the hypothetical— the unpredictability of human response is what makes it so valuable. That said, a good first step toward improving content is increasing its indexed “readability.” Take a look at the paragraph below:

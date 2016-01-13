@@ -1,5 +1,4 @@
 ---
-permalink: /reading-ease-scores/
 title: Reading ease scores
 ---
 The first step in producing readable content is cultivating audience awareness. Who are you writing for? Remember, readers will come to your content with varying educational backgrounds. If your content is unnecessarily lengthy or technical, you’ll frustrate and possibly lose your audience.

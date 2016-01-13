@@ -1,5 +1,4 @@
 ---
-permalink: /additional-resources/
 title: Additional resources
 ---
 We hope this tutorial helped you identify some possible avenues for measuring the effectiveness of your content. If you’d like to read more about content measurement, here’s a list of items we’ve found helpful on our own content endeavors:

@@ -1,5 +1,4 @@
 ---
-permalink: /a-b-test/
 title: A/B test
 ---
 Sometimes, the content you’re working on is more microcopy than sweeping paragraphs. Alas! The Cloze test and readability indexes aren’t ideal for determining if such copy meets your needs. With A/B testing, you’ll compare two versions of content to see which performs better.

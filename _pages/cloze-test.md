@@ -1,5 +1,4 @@
 ---
-permalink: /cloze-test/
 title: Cloze test
 ---
 The Cloze test can help you measure readers’ comprehension. In the Cloze test, you'll give participants a selection of text with certain words removed. Then you'll direct them to fill in the blanks. 
