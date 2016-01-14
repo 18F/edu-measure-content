@@ -37,7 +37,7 @@ navigation:
   url: cloze-test/
   internal: true
 - text: A/B test
-  url: a-b-test/
+  url: a-b-testing/
   internal: true
 - text: Test your knowledge
   url: test-your-knowledge/
