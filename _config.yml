@@ -39,15 +39,13 @@ navigation:
 - text: A/B test
   url: a-b-testing/
   internal: true
-- text: Test your knowledge
+- text: Test your knowledge!
   url: test-your-knowledge/
   internal: true
 - text: Additional resources
   url: additional-resources/
   internal: true
-- text: Test your knowledge!
-  url: test-your-knowledge/
-  internal: true
+
 
 repos:
 - name: Edu measure content
